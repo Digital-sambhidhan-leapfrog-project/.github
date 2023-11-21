@@ -13,7 +13,9 @@
 
 Welcome to SmartLawyer, your legal question answering system designed to provide answers to legal questions related to the Constitution of Nepal. Our mission is to make legal information more accessible and understandable for the citizens of Nepal. With SmartLawyer, you can quickly find information about your rights and the laws that affect you.
 
-<center><img src="https://avatars.githubusercontent.com/u/147421121?s=400&u=4be8bbd4e72ea7f9ffd33901f2e9d96369b1e7f7&v=4" style="height:150px;weight:150px"></center>
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/147421121?s=400&u=4be8bbd4e72ea7f9ffd33901f2e9d96369b1e7f7&v=4" style="height:150px;weight:150px">
+<div>
 
 ## Project Goals
 
@@ -30,7 +32,7 @@ SmartLawyer is a project that aims to make legal information accessible to the c
 The development of SmartLawyer was made possible by a dedicated team of individuals, each contributing their unique skills and expertise to bring this project to life. Here's an overview of the roles and responsibilities of the team members, listed alphabetically:
 
 <a href="https://github.com/12anupa-baral" target="_blank"><h3> Anupa Baral - Designer </h3></a>
-<center><img src="https://avatars.githubusercontent.com/u/86550755?v=4" style="height:150px;weight:150px;border-radius:100%"></center>
+<img src="https://avatars.githubusercontent.com/u/86550755?v=4" style="height:150px;weight:150px;border-radius:100%">
 
 As the Designer, Anupa Baral played a crucial role in shaping the visual identity and user experience of SmartLawyer. Her responsibilities included:
 - Designing the user interface and user experience to ensure a clean and intuitive platform.
@@ -38,7 +40,7 @@ As the Designer, Anupa Baral played a crucial role in shaping the visual identit
 - Collaborating with the Frontend Developers to implement the design elements.
 
 <a href="https://github.com/gaurovgiri" target="_blank"><h3> Gaurav Giri - Backend Developer</h3></a>
-<center><img src="https://avatars.githubusercontent.com/u/64427471?v=4" style="height:150px;weight:150px;border-radius:100%"></center>
+<img src="https://avatars.githubusercontent.com/u/64427471?v=4" style="height:150px;weight:150px;border-radius:100%">
 
 Gaurav Giri took on the role of Backend Developer, responsible for the development of the project's backend systems. His contributions included:
 - Building the backend infrastructure that powers SmartLawyer, including the question answering engine.
@@ -46,7 +48,7 @@ Gaurav Giri took on the role of Backend Developer, responsible for the developme
 - Ensuring the security and performance of the application.
 
 <a href="https://github.com/rushabhattaraii" target="_blank"><h3>Rusha Bhattarai - Project Manager</h3></a>
-<center><img src="https://avatars.githubusercontent.com/u/121803700?v=4" style="height:150px;weight:150px;border-radius:100%"></center>
+<img src="https://avatars.githubusercontent.com/u/121803700?v=4" style="height:150px;weight:150px;border-radius:100%">
 
 As the Project Manager, Rusha Bhattarai had the crucial task of overseeing the project's progress and ensuring that it met its objectives. Her responsibilities included:
 - Setting project goals, defining scopes, and creating timelines.
@@ -54,7 +56,7 @@ As the Project Manager, Rusha Bhattarai had the crucial task of overseeing the p
 - Managing communication with stakeholders and ensuring that the project aligned with the initial vision.
 
 <a href="https://github.com/shlok-py" target="_blank"><h3>Shlok Koirala - Full Stack Developer</h3></a>
-<center><img src="https://avatars.githubusercontent.com/u/85124057?v=4" style="height:150px;weight:150px;border-radius:100%"></center>
+<img src="https://avatars.githubusercontent.com/u/85124057?v=4" style="height:150px;weight:150px;border-radius:100%">
 
 Shlok Koirala served as the Full Stack Developer, contributing to both the frontend and backend aspects of SmartLawyer. His responsibilities included:
 - Developing the user interface and ensuring a seamless user experience.
@@ -62,7 +64,7 @@ Shlok Koirala served as the Full Stack Developer, contributing to both the front
 - Implementing features and functionalities across the application.
 
 <a href="https://github.com/shree404" target="_blank"><h3>Shreesha Aatreya - Frontend Developer</h3></a>
-<center><img src="https://avatars.githubusercontent.com/u/72936424?v=4" style="height:150px;weight:150px;border-radius:100%"></center>
+<img src="https://avatars.githubusercontent.com/u/72936424?v=4" style="height:150px;weight:150px;border-radius:100%">
 
 Shreesha Aatreya also contributed as a Frontend Developer, working alongside Sunayana Pandey to create a cohesive and responsive user interface. Her responsibilities included:
 - Collaborating with the team to implement the frontend design and features.
@@ -70,7 +72,7 @@ Shreesha Aatreya also contributed as a Frontend Developer, working alongside Sun
 - Implementing user interactions and responsiveness.
 
 <a href="https://github.com/sunayanapandey44" target="_blank"><h3>Sunayana Pandey - Frontend Developer</h3></a>
-<center><img src="https://avatars.githubusercontent.com/u/121503370?v=4" style="height:150px;weight:150px;border-radius:100%"></center>
+<img src="https://avatars.githubusercontent.com/u/121503370?v=4" style="height:150px;weight:150px;border-radius:100%">
 
 Sunayana Pandey took on the role of Frontend Developer, responsible for creating the user interface and ensuring a user-friendly experience. Her contributions included:
 - Developing the frontend of SmartLawyer, including the web pages and interactive elements.
@@ -78,7 +80,7 @@ Sunayana Pandey took on the role of Frontend Developer, responsible for creating
 - Ensuring cross-browser compatibility and responsive design.
 
 <a href="https://github.com/jsurya860" target="_blank"><h3>Surya Joshi - Quality Assurance (QA)</h3></a>
-<center><img src="https://avatars.githubusercontent.com/u/108981982?v=4" style="height:150px;weight:150px;border-radius:100%"></center>
+<img src="https://avatars.githubusercontent.com/u/108981982?v=4" style="height:150px;weight:150px;border-radius:100%">
 
 Surya Joshi served as the Quality Assurance (QA) team member, responsible for ensuring the quality and reliability of SmartLawyer. His responsibilities included:
 - Testing the application for functionality, performance, and reliability.
