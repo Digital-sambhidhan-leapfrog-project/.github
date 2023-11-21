@@ -15,7 +15,7 @@ Welcome to SmartLawyer, your legal question answering system designed to provide
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/147421121?s=400&u=4be8bbd4e72ea7f9ffd33901f2e9d96369b1e7f7&v=4" style="height:150px;weight:150px">
-<div>
+</div>
 
 ## Project Goals
 
@@ -31,6 +31,7 @@ SmartLawyer is a project that aims to make legal information accessible to the c
 
 The development of SmartLawyer was made possible by a dedicated team of individuals, each contributing their unique skills and expertise to bring this project to life. Here's an overview of the roles and responsibilities of the team members, listed alphabetically:
 
+<div align="center">
 <a href="https://github.com/12anupa-baral" target="_blank"><h3> Anupa Baral - Designer </h3></a>
 <img src="https://avatars.githubusercontent.com/u/86550755?v=4" style="height:150px;weight:150px;border-radius:100%">
 
@@ -85,8 +86,11 @@ Sunayana Pandey took on the role of Frontend Developer, responsible for creating
 Surya Joshi served as the Quality Assurance (QA) team member, responsible for ensuring the quality and reliability of SmartLawyer. His responsibilities included:
 - Testing the application for functionality, performance, and reliability.
 - Identifying and reporting issues or bugs for resolution.
+</div>
 
-The SmartLawyer project was made possible through the collective efforts of these dedicated LSPs, each contributing their skills and expertise to deliver a valuable legal question answering system.
+<br>
+
+**The SmartLawyer project was made possible through the collective efforts of these dedicated LSPs, each contributing their skills and expertise to deliver a valuable legal question answering system.**
 
 ## Features
 
